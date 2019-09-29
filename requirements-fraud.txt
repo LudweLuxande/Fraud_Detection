@@ -1,0 +1,9 @@
+pandas-profiling
+lofo-importance
+seaborn
+#catboost
+flask
+sklearn
+pandas
+numpy
+requests
